@@ -53,6 +53,8 @@ The predictive pipeline includes:
 ## Dashboard
 
 Power BI dashboards were developed to visualize:
+<img width="1029" height="694" alt="image" src="https://github.com/user-attachments/assets/f70018c9-17f7-4401-b35e-11334cfa3c3c" />
+
 
 * Procurement lead-time trends
 * Supplier performance
