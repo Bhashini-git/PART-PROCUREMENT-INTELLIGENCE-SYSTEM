@@ -17,6 +17,7 @@ The **Part Procurement Intelligence System** is a machine learning–based decis
 * Supports data-driven procurement planning and operational decision-making.
 
 ## Technology Stack
+<img width="929" height="691" alt="image" src="https://github.com/user-attachments/assets/de1ef336-ee86-49cb-83a1-86c5db82f4cd" />
 
 * Python
 * Pandas
